@@ -1,4 +1,4 @@
-# TOOLS V7
+# TOOLS V8
 
 ## Screenshot
 
@@ -22,4 +22,4 @@ pkg install ffmpeg
 pkg install sox
 git clone https://github.com/Cyber404119/Toolsv8.git
 cd Toolsv8
-bash Toolsv8.sh
+bash Kontoll.sh
