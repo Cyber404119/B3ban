@@ -13,11 +13,13 @@ pkg install python3
 pkg install bash
 pip install psutil
 pip2 install bash
+pkg install zip
+pkg install unzip
 pkg install coreutils grep 
 pkg install git
 pkg install mpv
 pkg install ffmpeg
 pkg install sox
-git clone https://github.com/Cyber404119/CY404.git
-cd CY404
-bash Gass404.sh
+git clone https://github.com/Cyber404119/Toolsv8.git
+cd Toolsv8
+bash Toolsv8.sh
