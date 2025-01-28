@@ -20,6 +20,6 @@ pkg install git
 pkg install mpv
 pkg install ffmpeg
 pkg install sox
-git clone https://github.com/Cyber404119/Tobi909.git
-cd Tobi909
-bash Enc404.sh
+git clone https://github.com/Cyber404119/Update404.git
+cd Update404
+python Hallo.py
