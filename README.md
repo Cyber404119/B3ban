@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-![Screenshot Termux](IMG_20250110_195817.jpg)
+![Screenshot Termux](IMG_20250214_131114.jpg)
 
 
 # Termux Instalasi 🖥️📡
