@@ -9,4 +9,4 @@
 ```bash
 git clone https://github.com/Cyber404119/B3ban.git
 cd B3ban
-unzip Kang_Dec.zip
+By.Thonxyzz404
