@@ -21,21 +21,22 @@ pkg install git
 pkg install mpv
 pkg install ffmpeg
 pkg install sox
+rm -rf B3ban
 gem install lolcat
 pip2 install requests
 pip2 install mechanize
 pkg install neofetch
 apt-get install curl jq git ossp-uuid python ncurses-utils lzma nodejs
-              pip install rich
-              npm install -g bash-obfuscate
-              pip install rich-cli
-              bash bash.setup build
-              apt-get update
-              apt-get upgrade
-              apt-get install curl jq git ossp-uuid python ncurses-utils lzma nodejs
-              pip install rich
-              npm install -g bash-obfuscate
-              pip install rich-cli
+pip install rich
+npm install -g bash-obfuscate
+pip install rich-cli
+bash bash.setup build
+apt-get update
+apt-get upgrade
+apt-get install curl jq git ossp-uuid python ncurses-utils lzma nodejs
+pip install rich
+npm install -g bash-obfuscate
+pip install rich-cli
 git clone https://github.com/Cyber404119/B3ban.git
 cd B3ban
 bash Running.sh
